@@ -2,7 +2,7 @@
 
 <!-- LinkedIn Badge with your profile -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekhar-ahirwar-489b86385/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrashekharahirwar@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrashekharahirwar8305@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chandrashekharahirwar.github.io)
 
 <!-- Location and Education -->
@@ -53,11 +53,6 @@ I'm a passionate **BTech CSE student** actively building smart solutions for rea
 <!-- GitHub Stats -->
 ![Chandrashekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrashekharahirwar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981&text_color=FFFFFF)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekharahirwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=chandrashekharahirwar&theme=radical&hide_border=true&background=0D1117&fire=FF6B6B&ring=3B82F6)
 
 </div>
 
@@ -111,19 +106,6 @@ I'm a passionate **BTech CSE student** actively building smart solutions for rea
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekharahirwar&theme=github-dark&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area=true&hide_border=true)
 
-<!-- Recent Activity -->
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandrashekharahirwar&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate
@@ -142,23 +124,9 @@ I'm a passionate **BTech CSE student** actively building smart solutions for rea
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrashekharahirwar@example.com)
 
 </div>
-
 ---
+## 📈 GitHub Activity
 
-## 📝 Latest Blog/Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekharahirwar&theme=github-dark&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area=true&hide_border=true)
 ---
-
-## 🎨 Fun Facts
-
-<div align="center">
-
-```yaml
-pronouns: "He/Him"
-current_role: "Student & Developer"
-hobbies: ["Electronics Tinkering", "Web Design", "Tech Blogs"]
-learning_style: "Hands-on Projects"
-quote: "Building connected, intelligent solutions for tomorrow's challenges."
-
