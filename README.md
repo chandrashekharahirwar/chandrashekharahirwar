@@ -101,13 +101,6 @@ I'm a passionate **BTech CSE student** actively building smart solutions for rea
 
 ---
 
-## 📈 GitHub Activity
-
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekharahirwar&theme=github-dark&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area=true&hide_border=true)
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -129,4 +122,6 @@ I'm a passionate **BTech CSE student** actively building smart solutions for rea
 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekharahirwar&theme=github-dark&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area=true&hide_border=true)
+
 ---
+
