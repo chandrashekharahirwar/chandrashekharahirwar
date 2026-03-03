@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header with animated wave -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=80&lines=👋+Hello,+I'm+Chandrashekhar+Ahirwar;🚀+Aspiring+Computer+Science+Engineer;🔌+IoT+Developer+%7C+🌐+Web+Enthusiast" alt="Typing SVG" />
-
 <!-- LinkedIn Badge with your profile -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekhar-ahirwar-489b86385/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrashekharahirwar@example.com)
@@ -164,3 +161,4 @@ current_role: "Student & Developer"
 hobbies: ["Electronics Tinkering", "Web Design", "Tech Blogs"]
 learning_style: "Hands-on Projects"
 quote: "Building connected, intelligent solutions for tomorrow's challenges."
+
