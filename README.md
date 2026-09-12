@@ -72,24 +72,6 @@
 </table>
 
 ---
-
-## 📬 Let's Collaborate
-
-<div align="center">
-
-<p align="center">
-  <b>I am actively open to collaborating on innovative projects, hackathons, and learning initiatives:</b>
-</p>
-
-| Collaboration Domain | Scope &amp; Tech Focus |
-| :--- | :--- |
-| ⚡ **IoT &amp; Embedded Systems** | ESP8266 / ESP32 smart automation, sensor arrays, MQTT communication, hardware prototypes |
-| 🌾 **Smart Agriculture &amp; Automation** | Soil moisture sensors, automated irrigation relays, real-time telemetry dashboards |
-| 🌐 **Full-Stack Web Development** | Modern responsive web interfaces, interactive IoT dashboards, RESTful API integrations |
-| 🏆 **Hackathons &amp; Team Projects** | Collaborative sprints, rapid MVP development, open-source contributions &amp; tech community |
-
-<br>
-
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" alt="Footer Banner" />
 
